@@ -4,4 +4,7 @@
 
 Este projeto é para aprender sobre Git e Github
 
-*
+**Lista**
+-Item 1
+-Item 2
+-Item 3
